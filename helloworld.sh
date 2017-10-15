@@ -1,3 +1,3 @@
 ls
 date
-whomi
+echo " iam aji"

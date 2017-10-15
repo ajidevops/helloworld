@@ -1,3 +1,3 @@
 ls
 date
-echo " iam  aji"
+echo " iam  ajies"
